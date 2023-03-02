@@ -1,4 +1,4 @@
-*{margin:0%}
+*{margin:0%;}
 h1{font-style: var(cursive);;color:red;text-align: center;}
 h3{color: blue;text-align: center;}
 .text{background-color:cornsilk;margin:0%;width:82.2%;}
@@ -12,14 +12,22 @@ img{
     height:500px;
     background-color: white;
 }
-p{text-align: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: chocolate;}
+p{text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: chocolate;
+    font-size:larger;}
 p2{text-overflow: clip;}
 body2{font-weight:bolder;}
 .links{color: rgb(242, 10, 33);font-size: xx-large;
 text-align: center;}
-a:hover{color: rgba(241, 26, 26, 0.919);text-shadow: 5pt;}
+a:hover{color: rgba(241, 26, 26, 0.919);background-color:black;}
 p3,a{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color:black;color: white;
-    border:black;border-radius: 3rem;border-spacing: 10%;text-decoration: none;
-    padding: 0.2em;}
-p4{text-align: left;margin-bottom: 100px;}
+    background-color:brown;color:whitesmoke;margin-left: 0.1%;
+    border:lightcyan;border-radius: 3rem;border-spacing: 10%;text-decoration: none;padding: 0.1em;}
+p5{text-align: left;margin-bottom: 100px;padding: 0.1em;}
+p4{font-size:x-large;}
+.contact
+{
+    background-color: aliceblue;
+}
+.contactus{text-align: left;padding-left: 10%;}
