@@ -1,12 +1,12 @@
 *{margin:0%;}
 h1{font-style: var(cursive);;color:red;text-align: center;}
 h3{color: blue;text-align: center;}
-.text{background-color:cornsilk;margin:0%;width:82.2%;}
+.text{background-color:cornsilk;margin:0%;width:100%;}
 
 .flex-container{margin: 0%;padding: 0%;display: flex;
     flex-direction:row;height: 100px;width:100%;
 }
-img{
+img{margin: 5%;
     padding-left: 5%;
     width: 75%;
     height:500px;
